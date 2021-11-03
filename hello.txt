@@ -13,4 +13,4 @@ hello ssf ! hello git!
 hello ssf ! hello git!
 hello ssf ! hello git!
 hello ssf ! hello git!
-hello ssf ! hello git!
+hello ssf ! hello git! hot-fix text
